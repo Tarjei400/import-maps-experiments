@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "_foo": "http://localhost/foo.js",
+    "_bar": "http://localhost/baz.js"
+  }
+}
